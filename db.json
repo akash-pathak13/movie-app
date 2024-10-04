@@ -1,0 +1,197 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Inception",
+      "releaseDate": "2010-07-16",
+      "averageRating": 8.7
+    },
+    {
+      "id": 2,
+      "name": "The Dark Knight",
+      "releaseDate": "2008-07-18",
+      "averageRating": 9.1
+    },
+    {
+      "id": 3,
+      "name": "Interstellar",
+      "releaseDate": "2014-11-07",
+      "averageRating": 8.6
+    },
+    {
+      "id": 4,
+      "name": "Pulp Fiction",
+      "releaseDate": "1994-10-14",
+      "averageRating": 8.9
+    },
+    {
+      "id": 5,
+      "name": "Fight Club",
+      "releaseDate": "1999-10-15",
+      "averageRating": 8.8
+    },
+    {
+      "id": 6,
+      "name": "The Matrix",
+      "releaseDate": "1999-03-31",
+      "averageRating": 8.7
+    },
+    {
+      "id": 7,
+      "name": "Forrest Gump",
+      "releaseDate": "1994-07-06",
+      "averageRating": 8.8
+    },
+    {
+      "id": 8,
+      "name": "The Godfather",
+      "releaseDate": "1972-03-24",
+      "averageRating": 9.2
+    },
+    {
+      "id": 9,
+      "name": "The Shawshank Redemption",
+      "releaseDate": "1994-09-22",
+      "averageRating": 9.3
+    },
+    {
+      "id": 10,
+      "name": "Gladiator",
+      "releaseDate": "2000-05-05",
+      "averageRating": 8.5
+    },
+    {
+      "id": 11,
+      "name": "Titanic",
+      "releaseDate": "1997-12-19",
+      "averageRating": 7.9
+    },
+    {
+      "id": 12,
+      "name": "Avatar",
+      "releaseDate": "2009-12-18",
+      "averageRating": 7.8
+    },
+    {
+      "id": 13,
+      "name": "The Avengers",
+      "releaseDate": "2012-05-04",
+      "averageRating": 8
+    },
+    {
+      "id": 14,
+      "name": "The Lion King",
+      "releaseDate": "1994-06-24",
+      "averageRating": 8.5
+    },
+    {
+      "id": 15,
+      "name": "Jurassic Park",
+      "releaseDate": "1993-06-11",
+      "averageRating": 8.1
+    },
+    {
+      "name": "Avengers: Doomsday",
+      "releaseDate": "2024-07-09",
+      "id": "5ce1"
+    },
+    {
+      "id": "8226",
+      "name": "Thunderbolts",
+      "releaseDate": "2024-10-03"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "movieId": 1,
+      "reviewerName": "John",
+      "rating": 9,
+      "comments": "Amazing movie with great concept!"
+    },
+    {
+      "id": 2,
+      "movieId": 1,
+      "reviewerName": "Sarah",
+      "rating": 8,
+      "comments": "Visually stunning, a bit confusing plot though."
+    },
+    {
+      "id": 3,
+      "movieId": 2,
+      "reviewerName": "Mike",
+      "rating": 10,
+      "comments": "Best Batman movie ever!"
+    },
+    {
+      "id": 4,
+      "movieId": 2,
+      "reviewerName": "Anna",
+      "rating": 9,
+      "comments": "Heath Ledger's performance was legendary."
+    },
+    {
+      "id": 5,
+      "movieId": 3,
+      "reviewerName": "Chris",
+      "rating": 9,
+      "comments": "Sci-fi at its best!"
+    },
+    {
+      "id": 6,
+      "movieId": 4,
+      "reviewerName": "Emma",
+      "rating": 9,
+      "comments": "Classic Tarantino. Must watch."
+    },
+    {
+      "id": 7,
+      "movieId": 5,
+      "reviewerName": "Tom",
+      "rating": 8,
+      "comments": "Great concept, a bit chaotic."
+    },
+    {
+      "id": 8,
+      "movieId": 6,
+      "reviewerName": "Jerry",
+      "rating": 9,
+      "comments": "One of the best action sci-fi movies!"
+    },
+    {
+      "id": 9,
+      "movieId": 7,
+      "reviewerName": "Alice",
+      "rating": 10,
+      "comments": "Heartwarming and emotional!"
+    },
+    {
+      "id": 10,
+      "movieId": 8,
+      "reviewerName": "Bob",
+      "rating": 10,
+      "comments": "A masterpiece of cinema."
+    },
+    {
+      "id": "d31e",
+      "reviewerName": "Akash",
+      "rating": "6.5",
+      "comments": "RDJ Entry is Epic!!",
+      "movieId": "5ce1"
+    },
+    {
+      "id": "46ec",
+      "movieId": "8226",
+      "reviewerName": "Sanjay",
+      "rating": "5",
+      "comments": "Worst!!"
+    },
+    {
+      "id": "1485",
+      "reviewerName": "Ashish",
+      "rating": "5",
+      "comments": "bored to watch this!!",
+      "movieId": "5"
+    }
+  ]
+}
